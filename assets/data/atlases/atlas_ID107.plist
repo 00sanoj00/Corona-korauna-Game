@@ -252,23 +252,10 @@
                 <key>sourceSize</key>
                 <string>{79, 79}</string>
             </dict>
-            <key>PTModelSprite_ID151</key>
-            <dict>
-                <key>frame</key>
-                <string>{{1943, 0}, {63, 62}}</string>
-                <key>offset</key>
-                <string>{0, -1}</string>
-                <key>rotated</key>
-                <string>false</string>
-                <key>sourceColorRect</key>
-                <string>{{0, 1}, {63, 62}}</string>
-                <key>sourceSize</key>
-                <string>{63, 63}</string>
-            </dict>
             <key>PTModelSprite_ID110</key>
             <dict>
                 <key>frame</key>
-                <string>{{1860, 83}, {63, 62}}</string>
+                <string>{{1943, 0}, {63, 62}}</string>
                 <key>offset</key>
                 <string>{0, -1}</string>
                 <key>rotated</key>
